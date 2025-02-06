@@ -1,0 +1,79 @@
+body{
+
+background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8UFFVl4apt6H-JfNmrtdiAYU0lVoIcgs0lw&s");
+
+font-family: arial, sans-serif;
+
+background-color: lightpink;
+
+text-align: center;
+
+padding: 50px;
+
+}
+
+h1{
+
+font-size: 3em;
+
+margin-bottom: 20px;
+
+}
+
+p{
+
+font-size:2em;
+
+margin-bottom: 20px;
+
+}
+
+.proposal-box{
+
+background-color: white;
+
+padding: 20px;
+
+border-radius: 15px;
+
+display:inline-block;
+
+margin-bottom:30px;
+
+img{
+
+border-radius: 15px;
+
+margin-top: 30px;
+
+margin-bottom: 30px;
+
+}
+
+.button{
+
+background:linear-gradient(to bottom, pink, lightred, deepred);
+
+color:deepred;
+
+color:lightpink;
+
+padding: 10px, 20px;
+
+border-radius:3px;
+
+font-family:arial;
+
+font-size:1.2em;
+
+transition: background-color 0.5s;
+
+}
+
+.button:hover{
+
+background: linear-gradient(to right, pink, lightred, deepred);
+
+color:darkerred;
+
+}
